@@ -24,7 +24,9 @@ Coût de l'avis : quelques centaines d'euros. Coût de l'erreur : un ordre de
 grandeur au-dessus.
 
 C'est une **asymétrie majeure** entre Marseille (friction nulle) et
-Valence/Málaga/Barcelone (friction réelle et chiffrable).
+Valence/Málaga (friction réelle et chiffrable). Depuis que Marseille est en tête,
+ce chiffre a changé de rôle : ce n'est plus un détail d'exécution, c'est **le
+principal élément susceptible de faire remonter Valence**. À obtenir tôt.
 
 **3. Le logement sans historique de salaire.**
 Contrainte que vous identifiez pour Paris ; elle ne disparaît pas ailleurs.
@@ -48,7 +50,17 @@ Ne pas exiger la on2 vous ouvre l'Espagne (cubaine/LA) et la Méditerranée. C'e
 le critère que la plupart des gens rendent rigide et qui leur coûte trois villes.
 Gardez-le négociable jusqu'au bout.
 
-**6. Le travail 100 % laptop coupe une source de liens.**
+**6. Chercher une relation longue dans la seule institution qui porte votre vie sociale.**
+Conséquence directe de l'arbitrage, et le point le plus inconfortable du dossier.
+Si la scène salsa est votre unique porte d'entrée sociale **et** le lieu où vous
+cherchez une relation, alors une rupture ne vous coûte pas une relation : elle
+vous coûte votre scène. Dans une ville de taille moyenne où tout le monde se
+connaît, c'est un risque réel, et c'est une des rares choses qui pourrait vous
+faire quitter une ville qui marchait par ailleurs.
+Ça ne change pas le classement. Ça renforce l'obligation du **second ancrage**
+ci-dessous — qui passe du statut de confort à celui de police d'assurance.
+
+**7. Le travail 100 % laptop coupe une source de liens.**
 Aucun collègue, aucun trajet, aucune contrainte de présence. La danse porterait
 alors seule tout votre tissu social — c'est beaucoup pour une seule institution,
 et fragile (une brouille, une école qui ferme). Prévoir un **second ancrage
@@ -56,7 +68,7 @@ hebdomadaire non lié à la danse** : beach-volley, escalade, coworking fixe. Vo
 propre critère — « être connu régulièrement au même endroit » — plaide pour deux
 lieux, pas un.
 
-**7. Ce qui ne se règle pas par la géographie.**
+**8. Ce qui ne se règle pas par la géographie.**
 Une partie de ce que Soustons a produit venait d'un groupe existant et d'un mode
 vacances. Aucune ville ne vend ça. Ce qu'une ville peut fournir : la densité et
 la répétition qui rendent un groupe *possible* en 12–18 mois. Si l'attente est

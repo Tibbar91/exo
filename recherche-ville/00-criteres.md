@@ -22,8 +22,9 @@ ils ne classent rien.
 
 | Poids | Critère | Pourquoi |
 |-------|---------|----------|
+| ●●●● | **Faible renouvellement de population** | Critère dominant depuis l'arbitrage du 30/08. Une relation longue et des amitiés durables supposent des gens qui restent. Voir `01-tensions.md` §3. |
 | ●●● | Profondeur de scène | Décide si vous progressez encore à 18 mois |
-| ●●● | Enracinement possible | Objectif de fond : la durée, pas la sortie |
+| ●●● | Langue opérationnelle | Une relation longue se construit dans une langue tenue au-delà du niveau piste de danse. Discriminant fort et sous-estimé. |
 | ●● | Ancrage hebdomadaire | Un lieu où l'on vous reconnaît, pas cinq où l'on vous croise |
 | ●● | Friction administrative | SASU + résidence fiscale (voir `03-incertitudes.md`) |
 | ●● | Accès au logement | Sans historique de salaire — contrainte réelle, pas théorique |
@@ -35,3 +36,14 @@ ils ne classent rien.
 Vous cherchez une **métropole côtière au climat doux avec une diaspora latine**.
 C'est une catégorie à une dizaine de villes, pas à cent. Le travail n'est pas
 d'élargir la liste, il est de départager sur F4 et F5.
+
+## Arbitrages tranchés (30/08)
+
+- **« Construire une relation longue » : critère fort.** Ce n'était pas un
+  détail. Ça fait du **renouvellement de population** le critère dominant du
+  classement, devant la profondeur de scène — et ça introduit la **langue**
+  comme discriminant. Effet direct : Barcelone sort de la tête de liste,
+  Marseille y monte.
+- **« Présenter publiquement un travail personnel » : supprimé.** Aucun filtre
+  « écosystème tech » n'entre dans la décision. Málaga perd le bonus qu'on lui
+  comptait à ce titre, Marseille ne perd rien.

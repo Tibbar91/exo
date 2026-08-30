@@ -29,16 +29,15 @@
 - **Salsa** : scène andalouse, cubaine dominante. Plafond : **moyen, incertain**. *(confiance : faible — c'est ma plus grosse zone d'ombre)*
 - **Mer** : dans la ville (Malagueta).
 - **Hiver** : le plus doux d'Espagne continentale. Ville vivante toute l'année, pas une station balnéaire.
-- **Tissu social** : sociabilité andalouse + communauté internationale en croissance rapide.
-- **Bonus** : pôle tech en expansion — pertinent seulement si l'objectif « présenter un travail » est validé.
-- **Risque** : profondeur salsa non établie. Pression touristique sur le logement.
+- **Tissu social** : sociabilité andalouse + communauté internationale en croissance rapide. **Faible renouvellement local** — c'est ce qui la garde haut au classement.
+- **Risque** : profondeur salsa non établie — la plus grosse zone d'ombre du dossier. Pression touristique sur le logement.
 
-### Barcelone — *la seule où le plafond n'est pas un sujet*
-- **Salsa** : la scène la plus profonde de la liste. Socials tous les soirs, niveau haut, profs internationaux, congrès. **F4 passé sans discussion.** *(confiance : bonne)*
-- **Mer** : Barceloneta, dans la ville.
-- **Hiver** : doux, ville pleine.
-- **Risque majeur** : **renouvellement**. La ville est réputée pour ce cycle — on y entre en une semaine, et à 24 mois la moitié de votre cercle est partie. Attaque frontalement votre objectif de fond.
-- **Risque logement** : crise locative aiguë + pas de *nómina*. Contrainte dure, pas administrative.
+### Barcelone — *reclassée : ressource, pas domicile*
+Depuis l'arbitrage, Barcelone n'est plus un candidat sérieux à l'installation.
+- **Salsa** : la scène la plus profonde de la liste, de loin. Socials tous les soirs, niveau haut, profs internationaux, congrès. **F4 passé sans discussion.** *(confiance : bonne)*
+- **Mais** : c'est la ville au plus fort renouvellement de la liste. On y entre en une semaine et à 24 mois la moitié de votre cercle est repartie. Sur le critère devenu dominant, c'est le pire candidat — et son seul avantage porte sur le critère dont `03-incertitudes.md` §4 montre qu'il est en partie fabriqué.
+- **Logement** : crise locative aiguë + pas de *nómina*. Contrainte dure, pas administrative.
+- **Usage recommandé** : y aller pour les congrès et des week-ends de pratique intensive. Depuis Valence, 3 h de train ; depuis Marseille, 4 h 30 ou un vol court. **Vous pouvez consommer la profondeur de Barcelone sans en subir le renouvellement.** C'est probablement la meilleure idée de ce document.
 
 ## Écartés — et pourquoi c'est utile de le dire
 
@@ -68,14 +67,26 @@ Nice : mer et douceur, scène salsa modeste, démographie plus âgée. Bordeaux 
 scène correcte, ville vivante, mais **échoue F2** — l'océan est à ~1 h, c'est
 une expédition. Tous deux en réserve, pas en tête.
 
-## Classement provisoire
+## Classement — après arbitrage du 30/08
 
-1. **Marseille** — friction nulle, enracinement fort, mer en ville. Sous réserve du plafond salsa.
-2. **Valence** — meilleur équilibre objectif, sous réserve de la bulle expat.
-3. **Málaga** — meilleur hiver, scène la moins documentée.
-4. **Barcelone** — seule certitude sur le plafond, seule vraie menace sur la durée.
+1. **Marseille.** Trois avantages sur le critère devenu dominant et sur ses
+   corollaires : population stable, langue déjà tenue, friction fiscale nulle.
+   Mer en ville, hiver plein. **Une seule inconnue, mais lourde : le plafond
+   salsa.** Tout le classement repose sur elle → c'est le premier test.
+2. **Valence.** Meilleur équilibre brut, meilleur climat que Marseille, scène
+   probablement plus profonde. Deux réserves : la friction fiscale à chiffrer, et
+   le fait que la porte d'entrée naturelle (couche expat/nomade) est précisément
+   la couche à fort renouvellement — donc la mauvaise. **Y aller, c'est accepter
+   de viser la couche valencienne, pas la couche internationale.** Plus lent,
+   plus exigeant en langue, mais c'est le seul chemin compatible avec l'objectif.
+3. **Málaga.** Le meilleur hiver de la liste, tissu local stable. Perd le bonus
+   « pôle tech » (critère supprimé) et reste la scène la moins documentée du
+   dossier. À traiter comme une option de repli sérieuse, pas comme un favori.
+4. ~~**Barcelone**~~ — sortie de la liste d'installation, reclassée en ressource
+   de pratique. Voir ci-dessus.
 
-**Ce classement bougera** selon les réponses aux deux `[?]`. Si « présenter un
-travail » est validé comme critère géographique, Barcelone et Málaga remontent
-et Marseille recule. Si « relation longue » est un critère fort, Barcelone recule
-encore.
+**Écart Marseille / Valence : faible.** Ne le tranchez pas sur ce document,
+tranchez-le sur les séjours. Ce qui les sépare vraiment est un chiffre que je
+n'ai pas — le coût fiscal d'un départ de France — et une observation que vous
+seul pouvez faire : combien de danseurs vous font progresser un mardi de février
+à Marseille.

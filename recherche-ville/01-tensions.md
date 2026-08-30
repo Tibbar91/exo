@@ -35,27 +35,46 @@ Vous avez déjà déclassé le surf. C'est cohérent et c'est ce qui rend la
 recherche solvable. **Il faut s'y tenir dans l'arbitrage final**, sinon le
 Pays basque va revenir par la fenêtre et faire tomber F1.
 
-## 3. « Ouvert aux nouveaux » et « dans la durée » s'opposent
+## 3. « Ouvert aux nouveaux » et « dans la durée » s'opposent — **tranché**
 
-C'est le vrai arbitrage, et il est sous-estimé.
+C'était le vrai arbitrage. Il est résolu : *relation longue* = critère fort.
+Donc **la durée l'emporte sur la facilité d'entrée.**
 
 | | Entrée facile | Enracinement |
 |---|---|---|
-| **Hubs à fort renouvellement**<br>Lisbonne, Las Palmas, Barcelone, scène nomade de Valence | Très facile. On vous parle le premier soir. | Faible. Les gens partent à 12–24 mois. Vous refaites votre cercle en boucle. |
+| **Hubs à fort renouvellement**<br>Lisbonne, Las Palmas, Barcelone, couche nomade de Valence | Très facile. On vous parle le premier soir. | Faible. Les gens partent à 12–24 mois. Vous refaites votre cercle en boucle. |
 | **Villes à tissu local stable**<br>Marseille, Málaga, Montpellier | Plus lent. 3–6 mois avant d'exister. | Fort. Ceux qui sont là restent. |
 
-Vos deux formulations tirent chacune d'un côté :
-« tissu social fermé aux gens qui arrivent seuls » = rédhibitoire → pousse vers
-les hubs. « Rencontrer des gens dans la durée » = objectif de fond → pousse vers
-les villes stables.
+Vos deux formulations tiraient chacune d'un côté : « tissu social fermé aux gens
+qui arrivent seuls » = rédhibitoire → poussait vers les hubs. « Rencontrer des
+gens dans la durée » = objectif de fond → pousse vers les villes stables.
 
-**Ce n'est pas conciliable à 100 %.** La sortie praticable : une ville stable où
-la *scène salsa* joue le rôle de sas d'entrée. C'est exactement votre mode de
-fonctionnement social — entrer par l'activité, pas par le small talk. Une scène
-de danse est une des rares institutions qui accueille les solos par construction
-tout en produisant des habitués sur des années.
+**La sortie n'est pas un compromis, c'est une asymétrie.** Une ville stable où la
+*scène salsa* joue le rôle de sas d'entrée règle les deux : la scène de danse est
+une des rares institutions qui accueille les solos par construction — et c'est
+exactement votre mode de fonctionnement social, entrer par l'activité et pas par
+le small talk. Vous avez déjà la clé qui ouvre les villes lentes. Vous n'avez pas
+besoin d'acheter la facilité d'entrée au prix du renouvellement.
 
-Ce raisonnement favorise **Marseille et Málaga** et pénalise **Lisbonne et
-Las Palmas** — dont le point fort (facilité d'entrée) est adressé chez vous par
-la danse, et dont le point faible (le renouvellement) attaque directement votre
-objectif de fond.
+Autrement dit : le rédhibitoire « tissu fermé aux solos » ne désigne pas les
+villes lentes, il désigne les villes **sans institution d'accueil**. Marseille et
+Málaga ont des scènes ; elles ne sont pas fermées, elles sont lentes. Ce n'est
+pas la même chose, et la confusion aurait coûté le classement.
+
+Conséquence : **Barcelone, Lisbonne et Las Palmas reculent** — leur avantage est
+un avantage dont vous n'avez pas besoin, leur défaut attaque votre objectif de
+fond. **Marseille et Málaga montent.**
+
+## 4. La langue, conséquence non évidente du même arbitrage
+
+Une relation longue ne se construit pas au niveau de langue d'une piste de danse.
+Il faut tenir une conversation difficile, rencontrer une famille, se disputer et
+se réconcilier. C'est un niveau que 18 mois d'espagnol social ne donnent pas
+toujours.
+
+Ça n'élimine pas l'Espagne — beaucoup de gens le font. Mais ça **ajoute 12 à
+24 mois** à l'horizon de l'objectif de fond, et ça devrait peser autant que les
+critères climatiques auxquels on accorde spontanément plus d'importance.
+
+C'est le second argument, après la friction fiscale nulle, qui fait passer
+Marseille devant.

@@ -26,6 +26,9 @@ Ne notez pas « j'ai aimé ». Notez ces cinq choses, à chaud, chaque soir :
    spontanément en semaine 3 ? C'est votre indicateur d'« être connu au même
    endroit », et c'est le seul qui prédit quoi que ce soit à 12 mois.
 4. **Invitations reçues** hors du lieu de danse. Le signal d'ouverture réelle.
+   Notez aussi, pour chaque personne marquante : **depuis combien de temps
+   est-elle là, et compte-t-elle rester ?** C'est la mesure directe du critère
+   devenu dominant, et elle se pose en une question sur une piste de danse.
 5. **Mardi 21 h en février.** Sortez, marchez. La ville est-elle vivante ?
    C'est le test « ville morte hors saison », et il ne se délègue pas.
 
@@ -33,11 +36,11 @@ Ne notez pas « j'ai aimé ». Notez ces cinq choses, à chaud, chaque soir :
 
 | Étape | Quoi | Quand |
 |---|---|---|
-| 0 | Répondre aux deux `[?]` → fige le classement | maintenant |
+| 0 | ~~Répondre aux deux `[?]`~~ — fait le 30/08 | ✅ |
 | 1 | **Expert-comptable mobilité internationale** — chiffrer la SASU hors de France | avant tout séjour |
 | 2 | Marseille, 3 semaines | novembre |
 | 3 | Valence, 3 semaines | janvier |
-| 4 | Málaga **ou** Barcelone selon les résultats de 2 et 3 | février–mars |
+| 4 | Málaga, si Marseille et Valence ont tous deux déçu | février–mars |
 | 5 | Décision + bail 6–12 mois | printemps |
 
 L'étape 1 avant l'étape 2 : si le coût fiscal d'un départ de France est
@@ -45,9 +48,13 @@ dissuasif, les étapes 3 et 4 changent de nature — vous ne testez plus des
 candidats, vous testez des alternatives coûteuses. Autant le savoir avant.
 
 Marseille en premier parce que c'est le test le moins cher (pas de friction
-admin, retour facile) et qu'il porte l'incertitude la plus lourde du classement :
-le plafond salsa. S'il tombe, le candidat n°1 tombe, et il vaut mieux que ce soit
-en novembre.
+admin, retour facile), qu'elle est désormais **candidate n°1**, et qu'elle porte
+l'incertitude la plus lourde du classement : le plafond salsa. S'il tombe, la
+tête de liste tombe — autant que ce soit en novembre.
+
+Barcelone ne figure plus comme étape de test mais reste à intégrer : prévoyez-y
+un week-end de congrès pendant la période, pour calibrer votre échelle. Sans
+point de comparaison haut, vous ne saurez pas lire le niveau de Marseille.
 
 ## Piège à éviter
 

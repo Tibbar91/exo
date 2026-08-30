@@ -15,11 +15,24 @@ vie sociale.
 
 ## État
 
-Premier passage. Deux points ouverts (`[?]` du brief) bloquent le classement
-définitif : l'objectif « relation longue » et l'objectif « présenter publiquement
-un travail personnel ». Les réponses déplacent Barcelone et Málaga.
+Les deux `[?]` du brief sont tranchés (30/08) :
 
-Le classement provisoire — Marseille, Valence, Málaga, Barcelone — repose sur des
-hypothèses de profondeur de scène salsa que je donne comme **incertaines** et qui
-ne se vérifient que sur place. Voir `03-incertitudes.md` avant d'y accorder du
-poids.
+- **« Construire une relation longue » → critère fort.** Devient le critère
+  dominant du classement. Fait passer le **renouvellement de population** devant
+  la profondeur de scène, et introduit la **langue** comme discriminant.
+- **« Présenter publiquement un travail personnel » → supprimé.** Aucun filtre
+  « écosystème tech » n'entre dans la décision.
+
+**Classement : Marseille, Valence, Málaga.** Barcelone est sortie de la liste
+d'installation — sur le critère devenu dominant c'est le pire candidat — et
+reclassée en *ressource de pratique* : congrès et week-ends, sans y vivre.
+
+Deux réserves à lire avant d'accorder du poids au classement :
+
+1. La tête de liste repose sur une **hypothèse non vérifiée** — la profondeur de
+   la scène salsa marseillaise. C'est ce que teste l'étape 2 du protocole.
+2. L'écart Marseille / Valence est **faible**, et le chiffre qui le trancherait
+   (coût fiscal d'un départ de France avec une SASU) n'est pas dans ce document.
+   Il se demande à un expert-comptable, pas à moi.
+
+Voir `03-incertitudes.md`.
